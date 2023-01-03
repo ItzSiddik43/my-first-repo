@@ -8,4 +8,7 @@ p{
 }
 .large-font{
     font-size: 50px;
+    color:orange;
+    font-style: italic;
+    font-weight: lighter;
 }
